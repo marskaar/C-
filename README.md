@@ -1,2 +1,2 @@
-# C-
+# C++
 Development code in C++
